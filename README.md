@@ -10,7 +10,9 @@ In this project, we will build a distributed power grid system using multi-agent
 
 #### Single inverter-based Photovoltaic system.
 
-First, we build a system [1](https://www.youtube.com/watch?v=A9FhgHS1JsE) based on a DC voltage source. 
+- [Model with no controller](PV_model/pv_inverter.slx): we build a system [1](https://www.youtube.com/watch?v=A9FhgHS1JsE) based on a DC voltage source. 
+- [Model with PID controller](PV_model/pv_inverter_pid.slx): voltage control by PID controller.
+- [PV model with PID controller](PV_model/pv_inverter_pv.slx): voltage control by PID controller and replacing the DC source using PV array.
 
 ## Control Methods
 
