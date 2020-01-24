@@ -10,7 +10,7 @@ In this project, we will build a distributed power grid system using multi-agent
 -------
 #### Single inverter-based Photovoltaic system.
 
-First, we build a system [1] based on a DC voltage source.
+First, we build a system [1](https://www.youtube.com/watch?v=A9FhgHS1JsE) based on a DC voltage source. 
 
 ## Control Methods
 -------
