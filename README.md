@@ -1,5 +1,5 @@
 # PVRL
-===============
+
 #### Robotics and Intelligent Vehicle Automation Lab (RIVAL)
 - Built by Dong Chen
 - Started on Jan.24, 2020
